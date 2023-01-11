@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+#warp{
+	margin:0 auto;
+	width:971px;
+}
+h1{
+	color:skyblue;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+	font-size:12px;
+	line-height:24px;
+}
+table td, th{
+	border:#d3d3d3 solid 1px;
+	padding : 5px;
+}
+
+table.list td, th{
+	border:#d3d3d3 solid 1px;
+	padding : 5px;
+	text-align : center;
+}
+
+img{
+	width:220px;
+	height:300px;
+}
+th{
+	background:skyblue;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	text-decoration: underline;
+	color:red;
+}
+
+section{
+	float:center;
+	width:580px;
+	padding:5px;
+}
+
