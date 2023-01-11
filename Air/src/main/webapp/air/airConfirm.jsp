@@ -20,7 +20,7 @@ ${list.kname }님 ${list.air_name }항공편의 ${list.air_sit } 좌석을 성�
 	무통장입금)
 	</c:when>
 	<c:otherwise>
-	마일리지)
+	마일리지ㅇ)
 	</c:otherwise>
 </c:choose>
 </c:forEach>

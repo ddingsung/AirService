@@ -26,7 +26,6 @@
 		<td>${list.startpoint }</td>
 		<td>${list.destination }</td>
 		<td>${list.price }</td>
-		<td>${list.price }</td>
 	</tr>
 	</c:forEach>
 </table>
