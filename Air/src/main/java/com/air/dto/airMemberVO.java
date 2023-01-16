@@ -1,5 +1,6 @@
 package com.air.dto;
 
+
 //create table air_member(
 //num number(10) primary key,
 //id varchar2(20) not null,
@@ -9,7 +10,12 @@ package com.air.dto;
 //phone varchar2(30),
 //email varchar2(30),
 //gender char(1) default 'M',
-//point number(30) default 0
+//point number(30) default 0,
+//root varchar2(1) default 'B',
+//air_name varchar2(20),
+//air_sit varchar2(20),
+//tiket varchar2(20),
+//pay varchar2(20)
 //);
 //
 //
